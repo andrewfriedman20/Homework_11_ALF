@@ -10,5 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.4"
+    "mysql": "^2.18.1",
+    "path": "^0.12.7",
+    "inquirer": "^7.0.4"
   }
 }
